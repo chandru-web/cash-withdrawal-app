@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.list-item {
+  background-color: #7c3aed;
+  color: #ffffff;
+  border-radius: 5px;
+  padding: 10px 20px;
+  margin: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+  list-style-type: none;
+}
+
+.list-item:hover {
+  background-color: #5a2cbf;
+}
